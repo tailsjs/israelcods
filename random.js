@@ -5,6 +5,7 @@
  * 
  * Description:
  * * https://i.imgur.com/MYbYzVd.png
+ * * https://i.imgur.com/txJ5gjr.png
  */
 
 function rand(min, max) {return Math.round(Math.random() * (max - min)) + min}
